@@ -35,7 +35,10 @@ ArrayList<Object> lista = new ArrayList<Object>();
 guarda qualquer tipo de informação (String, número inteiro, número decimal, caractere...)
 	
 lista.add("Larissa");
+	
 lista.add(23);
+	
 lista.add("s");
+	
 lista.add(9.5);
 	
